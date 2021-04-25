@@ -7,3 +7,19 @@
 - Liskov substitution principle (LSP)
 - Interface segregation principle (ISP)
 - Dependency inversion principle (DIP)
+
+#Design Patterns (Creational):
+- Singleton
+- Builder
+- Prototype
+- Factory
+- Abstract Factory
+
+#Design Patterns (Structural):
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
